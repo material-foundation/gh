@@ -86,9 +86,7 @@
             },
             "new": {
                 "before": [],
-                "after": [
-                    "gh re --browser {{options.browser}} --user {{options.user}} --repo {{options.new}}"
-                ]
+                "after": []
             }
         },
         "gists": {
